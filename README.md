@@ -1,5 +1,5 @@
 # Bharat-Intern-Projects
-So the project I have designed under Bharat Intern projects are Handwritten Digit Recognition Project and is using Artificial Neural Network(ANN) 
+So the project I have designed under Bharat Intern projects are Handwritten Digit Recognition Project using Artificial Neural Network(ANN) 
 and Stock Market prediction using LSTM.
 ANN is a fundamental concept of Machine Learning.
 It uses the Dataset MNIST which consists of 70,000 grayscale images of handwritten digits from 0-9.
